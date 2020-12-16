@@ -22,14 +22,14 @@ function App() {
           title="Agent de sécurité - Pantin"
           contractType="CDI"
           country="France"
-          city="France"
+          city="Pantin"
         />
         <Job
           className="yellow"
           title="Responsable d'atelier"
           contractType="CDD"
-          country=""
-          city=""
+          country="France"
+          city="Paris"
         />
         <Job
           className="blue"
