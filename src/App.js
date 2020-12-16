@@ -75,7 +75,7 @@ function App() {
         />
       </Jobs>
       <Footer
-        text={["Made in ", <strong>React</strong>, "by ", <strong>Me</strong>]}
+        text={["Made in ", <strong>React </strong>, "by ", <strong>Me</strong>]}
       />
     </Fragment>
   );
