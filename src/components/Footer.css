@@ -1,0 +1,15 @@
+.footer {
+  background-color: #dddddd;
+  height: 63px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.footer_text {
+  margin: 0;
+  color: black;
+  font-size: 18px;
+  font-weight: 400;
+  font-family: "Roboto", sans-serif;
+}

@@ -1,0 +1,48 @@
+.job_item {
+  flex: 1 1 auto;
+  box-sizing: border-box;
+  width: 300px;
+  height: 300px;
+  margin: 20px;
+  border: 7px solid;
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.job_title {
+  margin: 0;
+  color: black;
+  font-size: 30px;
+  font-weight: 400;
+  font-family: "Roboto", sans-serif;
+}
+
+.job_text {
+  margin: 0;
+  color: black;
+  font-size: 18px;
+  font-weight: 400;
+  font-family: "Roboto", sans-serif;
+}
+
+.yellow {
+  border-color: yellow;
+}
+
+.red {
+  border-color: red;
+}
+
+.green {
+  border-color: green;
+}
+
+.blue {
+  border-color: blue;
+}
+
+.pink {
+  border-color: pink;
+}
